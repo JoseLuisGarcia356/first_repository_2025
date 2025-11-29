@@ -8,4 +8,4 @@ This is the repository for the activity 1.
 - Created a new branch named dev.
 - Created a new file in src folder.
 - Added a contributor file.
-- Eror coorection .
+- Error.
